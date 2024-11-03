@@ -64,9 +64,10 @@ Os bancos usam a análise de dados para identificar oportunidades de retenção 
 ## Licença
 Este projeto está sob a licença MIT - veja o arquivo LICENSE.md para detalhes
 
-### Contato
+## Contato
+
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato: 🚀
-LinkedIn: linkedin.com/in/josé-carlos-carneiro
+- LinkedIn: [José Carlos Carneiro]https://www.linkedin.com/in/josé-carlos-carneiro/
 
 ## ⌨️ com ❤️ por José Carlos Carneiro
 
