@@ -1,7 +1,7 @@
 # Análise de Dados de Empréstimos Bancários
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
-![Badge Versão](https://img.shields.io/badge/Versão-1.0.0-blue)
+![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Análise%20Empréstimo-green)
+![Badge Versão](https://img.shields.io/badge/Versão-1.1.0-blue)
 
 ## Descrição do Projeto
 
@@ -45,13 +45,28 @@ Os bancos usam a análise de dados para identificar oportunidades de retenção 
 
 1. **Configuração do Banco de Dados**
    ```sql
-   -- Execute os scripts de criação de tabelas
+   -- Execute os scripts de criação de tabelas 
    -- Importe os dados iniciais
 
+2. **Power BI**
+   ```BI
+   -- Abra o arquivo .pbix
+   -- Configure a conexão com o branco
+   -- Atualize os dados
+3. Pré-requisitos
+   ```Pré-requisitos
+   -- SQL Server 2019+
+   -- Power BI Desktop
+   -- Acesso ao banco de dados
+   -- Permissões adequadas
+## ✒️ Autor
+   #### José Carlos Carneiro - Desenvolvimento Inicial
+## Licença
+Este projeto está sob a licença MIT - veja o arquivo LICENSE.md para detalhes
 
-### Retenção de Clientes
-Os bancos usam a análise de dados para identificar oportunidades de retenção de clientes existentes, como oferecer opções de refinanciamento de empréstimos ou produtos financeiros adicionais.
-#
 ### Contato
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato: 🚀
 LinkedIn: linkedin.com/in/josé-carlos-carneiro
+
+## ⌨️ com ❤️ por José Carlos Carneiro
+
