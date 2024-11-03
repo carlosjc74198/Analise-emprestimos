@@ -1,5 +1,10 @@
 # Análise de Dados de Empréstimos Bancários
 
+![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
+![Badge Versão](https://img.shields.io/badge/Versão-1.0.0-blue)
+
+## Descrição do Projeto
+
 Este projeto tem como objetivo analisar dados de empréstimos bancários para diversas finalidades críticas. Abaixo estão as principais razões para a análise desses dados:
 
 "Os empréstimos bancários são uma ferramenta financeira crucial que permite a indivíduos e empresas alcançarem seus objetivos e gerenciarem suas necessidades financeiras. No entanto, é essencial que os mutuários compreendam os termos, custos e responsabilidades associados aos empréstimos para tomar decisões financeiras informadas."
@@ -32,6 +37,17 @@ A análise de dados ajuda os bancos a entender tendências de mercado, cenário 
 
 ### Gestão de Risco de Crédito
 Os bancos monitoram e gerenciam continuamente o risco de crédito associado aos seus empréstimos. A análise de dados ajuda a definir estratégias de gestão de risco, provisionar para perdas potenciais e realizar testes de estresse nos portfólios de empréstimos.
+
+### Retenção de Clientes
+Os bancos usam a análise de dados para identificar oportunidades de retenção de clientes existentes, como oferecer opções de refinanciamento de empréstimos ou produtos financeiros adicionais.
+
+## Como Usar
+
+1. **Configuração do Banco de Dados**
+   ```sql
+   -- Execute os scripts de criação de tabelas
+   -- Importe os dados iniciais
+
 
 ### Retenção de Clientes
 Os bancos usam a análise de dados para identificar oportunidades de retenção de clientes existentes, como oferecer opções de refinanciamento de empréstimos ou produtos financeiros adicionais.
